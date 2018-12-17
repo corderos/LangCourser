@@ -1,0 +1,3 @@
+- logowanie (podzielenie uprawnien uzytkownikow)
+- zapis na kurs
+- ocena kurs
